@@ -2,11 +2,11 @@
 {
   "response": [
     {
-      "datetime": -,
-      "filename": "lineage-17.0-20191120-UNOFFICIAL-bacon.zip",
+      "datetime": ,
+      "filename": "lineage-17.0-20191122-NIGHTLY-bacon.zip",
       "id": "-",
-      "romtype": "UNOFFICIAL",
-      "size": 000,
+      "romtype": "nightly",
+      "size": 421932341,
       "url": "-",
       "version": "17.0"
     }
