@@ -2,9 +2,9 @@
 {
   "response": [
     {
-      "datetime": ,
-      "filename": "lineage-17.0-20191122-NIGHTLY-bacon.zip",
-      "id": "-",
+      "datetime": 1574498583,
+      "filename": "lineage-17.0-20191123-NIGHTLY-bacon.zip",
+      "id": "a652ec4e031d27acc1730a3d1448116c",
       "romtype": "nightly",
       "size": 421932341,
       "url": "-",
